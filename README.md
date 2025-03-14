@@ -15,10 +15,10 @@ I am **Aryan Shahi**, an aspiring developer currently exploring various technolo
 <!--## 🎯 Goals for 2025
 - Master **Next.js** and improve full-stack development skills
 - Learn **JavaScript & TypeScript**
-- Build & deploy more projects-->
+- Build & deploy more projects
 ## 📊 GitHub Stats
 ![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryanshahi123&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshahi123&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshahi123&layout=compact&theme=radical)-->
 
 
 ## 📫 Connect with Me
