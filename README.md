@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**aryanshahi123/aryanshahi123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Aryan Shahi**, an aspiring developer currently exploring various technologies. I am passionate about learning and building exciting projects.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Game Development:** Roblox (Lua, UI scripting)
+- **Version Control:** Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Projects
+- **RNotes** (An online note-sharing app)
+- **Tunnel Of Hell** (A Roblox game inspired by Tower Of Hell)
+<!--- **Team Obby Game** (Multiplayer platforming mechanics)-->
+
+<!--## 🎯 Goals for 2025
+- Master **Next.js** and improve full-stack development skills
+- Learn **JavaScript & TypeScript**
+- Build & deploy more projects-->
+
+## 📫 Connect with Me
+- GitHub: [Aryan Shahi](https://github.com/aryanshahi123)
+<!--- Roblox: [Royan_RN](https://www.roblox.com/users/your-id)-->
+- Discord: [aryan_rn]
+
+Let's collaborate and build something amazing! 🚀
