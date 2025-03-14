@@ -16,6 +16,10 @@ I am **Aryan Shahi**, an aspiring developer currently exploring various technolo
 - Master **Next.js** and improve full-stack development skills
 - Learn **JavaScript & TypeScript**
 - Build & deploy more projects-->
+## 📊 GitHub Stats
+![Aryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Royan-RN&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Royan-RN&layout=compact&theme=radical)
+
 
 ## 📫 Connect with Me
 - GitHub: [Aryan Shahi](https://github.com/aryanshahi123)
