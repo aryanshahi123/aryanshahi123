@@ -4,6 +4,8 @@ I am **Aryan Shahi**, an aspiring developer currently exploring various technolo
 
 ## 🚀 Technologies & Skills
 - **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP
+- **Database:** MySQL
 - **Game Development:** Roblox (Lua, UI scripting)
 - **Version Control:** Git & GitHub
 
