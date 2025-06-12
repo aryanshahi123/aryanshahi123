@@ -24,7 +24,6 @@ I am **Aryan Shahi**, an aspiring developer currently exploring various technolo
 
 
 ## 📫 Connect with Me
-- GitHub: [Aryan Shahi](https://github.com/aryanshahi123)
 <!--- Roblox: [Royan_RN](https://www.roblox.com/users/your-id)-->
 - Discord: [aryan_rn]
 
